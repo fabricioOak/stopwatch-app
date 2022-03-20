@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "stopwatch-app",
+    "slug": "stopwatch-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
