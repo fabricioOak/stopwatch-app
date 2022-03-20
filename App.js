@@ -37,7 +37,7 @@ export default function App() {
 					(seconds < 10 ? "0" + seconds : seconds);
 
 				setTimer(formatTime);
-			}, 100);
+			}, 1000);
 			setText("Parar");
 		}
 	}
